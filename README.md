@@ -80,7 +80,7 @@ These metrics are visualized using plots included in the paper and repository.
  - Testing_2025.py            # Testing on unseen season data
  - figures/                   # Generated plots (ROC, PR, Lift, Metrics)
  - data/                      # Processed CSV files (not all included)
- - paper/                     # IEEE LaTeX source files
+ - Ieee_Report                # IEEE LaTeX source files
  - README.md                  # Project documentation
 
 ---
